@@ -1,0 +1,1 @@
+find . -type f -name "*.txt" | xargs -n1 basename -s .txt  
