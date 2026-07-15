@@ -1,0 +1,2 @@
+
+export PATH="~/myBins:$PATH"
