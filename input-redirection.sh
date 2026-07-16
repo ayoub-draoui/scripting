@@ -1,6 +1,7 @@
 #!/bin/bash
-cat <<EOF > show-info.sh
-#!/bin/bash
+ USER="adraoui"
+export USER
+ cat <<EOF > show-info.sh
 cat -e <<INFO
 The current directory is: \$PWD
 The default paths are: \$PATH
