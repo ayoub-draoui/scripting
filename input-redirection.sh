@@ -8,3 +8,5 @@ The default paths are: \$PATH
 The current user is: \$USERNAME
 INFO
 EOF
+
+
